@@ -10,6 +10,11 @@ Visit repo My-First-Portfolio from GitHub and clone the repo using either SSH or
 
 User can access my portfolio to read alittle about myself and view some samples I have worked on. User also has access to my resume and contact information.
 
+Github:
+https://github.com/jonathan-lee8/First-Portfolio-Jonathan
+
+Page:
+
 ## Credits
 
 N/A
