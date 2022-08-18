@@ -14,6 +14,7 @@ Github:
 https://github.com/jonathan-lee8/First-Portfolio-Jonathan
 
 Page:
+https://jonathan-lee8.github.io/First-Portfolio-Jonathan/
 
 ## Credits
 
